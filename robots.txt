@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://codemover31423.github.io/veroskitchen/sitemap.xml
